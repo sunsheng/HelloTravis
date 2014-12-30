@@ -1,1 +1,10 @@
 language: android
+
+android:
+  components:
+    - build-tools-20.1.2
+    - android-21
+
+cache:
+  directories:
+    - $HOME/.m2
