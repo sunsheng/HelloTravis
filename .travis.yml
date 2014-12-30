@@ -1,8 +1,6 @@
 language: android
 
 
+notifications:
+  email: "287886999@qq.com"
 
-
-cache:
-  directories:
-    - $HOME/.m2
